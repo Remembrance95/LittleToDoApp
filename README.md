@@ -1,2 +1,2 @@
 # LittleToDoApp
-Practicing code by make a to do app
+Practicing code by making a to do app
